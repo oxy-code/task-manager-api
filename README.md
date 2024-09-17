@@ -13,6 +13,10 @@ Also, create the db schema using `db.sql` available in the repo.
 
 ### Available scripts
 
+### `npm install`
+
+To install all the required dependencies run this command.
+
 ### `npm start`
 
 To start the server run this command.
